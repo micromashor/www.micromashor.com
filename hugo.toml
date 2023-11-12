@@ -1,0 +1,5 @@
+baseURL = 'https://micromashor.com/'
+languageCode = 'en-us'
+title = 'Eric Johnson'
+theme = 'ananke'
+SectionPagesMenu = 'main'
